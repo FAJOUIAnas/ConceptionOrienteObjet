@@ -1,0 +1,4 @@
+Compte{code=3, solde=9300, dateCreation=2020-04-07}
+	Operation{Nature= Retrait, num=50, date=2020-05-20, montant=200}
+	Operation{Nature= Retrait, num=50, date=2020-05-25, montant=500}
+	Operation{Nature= Versement, num=5, date=2020-05-20, montant=2000}
